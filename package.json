@@ -1,16 +1,16 @@
 {
-"name": "probet888",
-"theme": "probet888",
-"version": "1.4.2",
-"description": "probet888 สมัครเว็บไซต์พนันเว็บตรง อันดับ 1 รับเงินเครดิตฟรี",
-"keywords": [
-"probet888",
-"probet888 เครดิตฟรี",
-"probet888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/probet888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "probet888",
+  "theme": "probet888",
+  "version": "1.5.0",
+  "description": "probet888 สมัครเว็บไซต์พนันเว็บตรง อันดับ 1 รับเงินเครดิตฟรี",
+  "keywords": [
+    "probet888",
+    "probet888 เครดิตฟรี",
+    "probet888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/probet888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
